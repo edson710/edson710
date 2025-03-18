@@ -1,8 +1,4 @@
 
-<!--
-**edson710/edson710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 Atualmente estou trabalhando em [Fsw-Donalds](https://github.com/edson710/Fsw-Donalds)
 - 🌱 Estou aprendendo TypeScript
 - 💬 Pergunte-me sobre desenvolvimento web e programação em geral
