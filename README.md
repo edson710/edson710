@@ -1,3 +1,9 @@
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edson710/edson710/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edson710/edson710/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edson710/edson710/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 - 🔭 Atualmente estou trabalhando em [Fsw-Donalds](https://github.com/edson710/Fsw-Donalds)
 - 🌱 Estou aprendendo TypeScript
