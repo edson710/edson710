@@ -48,4 +48,4 @@ Me siga para ficar ligado nas novidades! 🔥
 
 ## Um pouco de diversão!
 
-![GIF de Programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  ![GIF de Programação](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=790b76117q27w3atddmzuk9rm2zjb9dspwri47w0bmbzdjl3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF de Programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
