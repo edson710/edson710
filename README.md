@@ -13,8 +13,8 @@
 
 ## Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edson710&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson710&layout=compact&theme=tokyonight" alt="Top Langs" width="44.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edson710&show_icons=true&theme=tokyonight" alt="GitHub stats" width="46.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson710&layout=compact&theme=tokyonight" alt="Top Langs" width="35.5%"/>
 </p>
 
 ## Linguagens que mais uso
