@@ -4,6 +4,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edson710/edson710/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- Adicione esta linha no início do seu README.md -->
+<body style="background-image: url('https://img.freepik.com/vetores-gratis/fundo-hexagonal-escuro-com-cor-gradiente_79603-1409.jpg?t=st=1743123595~exp=1743127195~hmac=551448036ac1962fdfac6fd01282a6c9315b87b870d9edf2ec988833bb0d840c&w=996'); background-size: cover;">
 
 - 🔭 Atualmente estou trabalhando em [Fsw-Donalds](https://github.com/edson710/Fsw-Donalds)
 - 🌱 Estou aprendendo TypeScript
