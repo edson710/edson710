@@ -1,5 +1,3 @@
-![Minha capa escura](https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/capa-escura.png)
-
 
 - 🔭 Atualmente estou trabalhando em [Fsw-Donalds](https://github.com/edson710/Fsw-Donalds)
 - 🌱 Estou aprendendo TypeScript
