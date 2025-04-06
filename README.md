@@ -45,7 +45,3 @@ Me siga para ficar ligado nas novidades! 🔥
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 </p>
-
-## Um pouco de diversão!
-
-![GIF de Programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
